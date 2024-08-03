@@ -1,0 +1,7 @@
+$env:DEBUG="development:*"
+
+
+
+ $env:NODE_ENV="development"
+
+  npm i jsonwebtoken bcrypt dotenv cookie-parser
